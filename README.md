@@ -5,7 +5,7 @@ Internal Kaggle competition from:
 *40.220* **The Analytics Edge (SUTD)** - *2017* <br>
 (https://www.kaggle.com/c/the-analytics-edge-sutd-2017#description)
 
-**Competition Description :**
+**Competition Description**
 
 Companies such as General Motors carry out conjoint studies with customers to understand <br> 
 the tradeoff (valuation) of different attributes that made up a product or a service. <br>
